@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiro Acesso - Criar Administrador</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>Configuração Inicial</h2>
+        <p style="text-align: center; color: #666; margin-bottom: 1.5rem; font-size: 0.9rem;">
+            Nenhum usuário encontrado. Crie o usuário administrador para começar.
+        </p>
+
+        <form id="formPrimeiroAcesso">
+            <div class="form-group">
+                <label for="nome">Nome de Usuário *</label>
+                <input type="text" id="nome" name="nome" required maxlength="32" placeholder="Ex: admin">
+            </div>
+
+            <div class="form-group">
+                <label for="senha">Senha *</label>
+                <input type="password" id="senha" name="senha" required maxlength="255" placeholder="Mínimo 4 caracteres">
+            </div>
+
+            <div class="form-group">
+                <label for="confirmarSenha">Confirmar Senha *</label>
+                <input type="password" id="confirmarSenha" name="confirmarSenha" required maxlength="255" placeholder="Repita a senha">
+            </div>
+
+            <button type="submit" class="btn">Criar e Acessar</button>
+
+            <p id="mensagemErro" class="error-msg"></p>
+        </form>
+    </div>
+
+    <script src="js/primeiro-acesso.js?v=1"></script>
+</body>
+</html>

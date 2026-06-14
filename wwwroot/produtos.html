@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Produtos</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div class="table-container">
+        <div class="table-header">
+            <h2>Produtos Cadastrados</h2>
+            <a href="cadastro-produto.html" class="btn-novo">+ Novo Produto</a>
+        </div>
+
+        <table id="tabelaProdutos">
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Descrição</th>
+                    <th>Código de Barras</th>
+                    <th>Valor Venda</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody id="corpoTabela">
+                <tr>
+                    <td colspan="5" class="tabela-vazia">Carregando produtos...</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div style="margin-top: 2rem; text-align: center;">
+            <a href="menu.html" class="btn btn-secundario" style="width: auto; padding: 0.6rem 2rem;">← Voltar ao Menu</a>
+        </div>
+    </div>
+
+    <script src="js/produtos.js"></script>
+</body>
+</html>

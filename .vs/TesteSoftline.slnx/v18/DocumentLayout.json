@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\codes\\testesoftline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\menu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\clientes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\clientes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\cadastro-produto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\cadastro-produto.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\cadastro-cliente.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\cadastro-cliente.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\js\\produtos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\js\\produtos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\js\\primeiro-acesso.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\js\\primeiro-acesso.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\js\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\js\\clientes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\js\\cadastro-produto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\js\\cadastro-produto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\js\\cadastro-cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\js\\cadastro-cliente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\helpers\\documentovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:helpers\\documentovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|e:\\codes\\testesoftline\\wwwroot\\primeiro-acesso.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEA56737-F876-3227-8BBB-C3ECB392A147}|testesoftline.csproj|solutionrelative:wwwroot\\primeiro-acesso.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.html",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\menu.html",
+              "RelativeDocumentMoniker": "wwwroot\\menu.html",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\menu.html",
+              "RelativeToolTip": "wwwroot\\menu.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-14T02:59:52.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.html",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\login.html",
+              "RelativeDocumentMoniker": "wwwroot\\login.html",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\login.html",
+              "RelativeToolTip": "wwwroot\\login.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-14T02:59:50.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cadastro-produto.html",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\cadastro-produto.html",
+              "RelativeDocumentMoniker": "wwwroot\\cadastro-produto.html",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\cadastro-produto.html",
+              "RelativeToolTip": "wwwroot\\cadastro-produto.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-14T02:59:45.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "produtos.js",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\js\\produtos.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\produtos.js",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\js\\produtos.js",
+              "RelativeToolTip": "wwwroot\\js\\produtos.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-14T02:59:15.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cadastro-produto.js",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\js\\cadastro-produto.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\cadastro-produto.js",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\js\\cadastro-produto.js",
+              "RelativeToolTip": "wwwroot\\js\\cadastro-produto.js",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAgwAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-14T02:56:36.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-14T02:55:44.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Services\\ClienteService.cs",
+              "ToolTip": "E:\\codes\\testesoftline\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Services\\ClienteService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T02:49:55.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cadastro-cliente.js",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\js\\cadastro-cliente.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\cadastro-cliente.js",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\js\\cadastro-cliente.js",
+              "RelativeToolTip": "wwwroot\\js\\cadastro-cliente.js",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAQwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-14T02:46:28.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clientes.js",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\js\\clientes.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\clientes.js",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\js\\clientes.js",
+              "RelativeToolTip": "wwwroot\\js\\clientes.js",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-14T02:46:23.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.js",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\js\\login.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\login.js",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\js\\login.js",
+              "RelativeToolTip": "wwwroot\\js\\login.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-14T02:42:50.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "primeiro-acesso.html",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\primeiro-acesso.html",
+              "RelativeDocumentMoniker": "wwwroot\\primeiro-acesso.html",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\primeiro-acesso.html",
+              "RelativeToolTip": "wwwroot\\primeiro-acesso.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-14T02:42:49.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clientes.html",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\clientes.html",
+              "RelativeDocumentMoniker": "wwwroot\\clientes.html",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\clientes.html",
+              "RelativeToolTip": "wwwroot\\clientes.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-14T02:47:26.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocumentoValidator.cs",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\Helpers\\DocumentoValidator.cs",
+              "RelativeDocumentMoniker": "Helpers\\DocumentoValidator.cs",
+              "ToolTip": "E:\\codes\\testesoftline\\Helpers\\DocumentoValidator.cs",
+              "RelativeToolTip": "Helpers\\DocumentoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T02:43:23.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cadastro-cliente.html",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\cadastro-cliente.html",
+              "RelativeDocumentMoniker": "wwwroot\\cadastro-cliente.html",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\cadastro-cliente.html",
+              "RelativeToolTip": "wwwroot\\cadastro-cliente.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-14T02:47:31.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "primeiro-acesso.js",
+              "DocumentMoniker": "E:\\codes\\testesoftline\\wwwroot\\js\\primeiro-acesso.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\primeiro-acesso.js",
+              "ToolTip": "E:\\codes\\testesoftline\\wwwroot\\js\\primeiro-acesso.js",
+              "RelativeToolTip": "wwwroot\\js\\primeiro-acesso.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-14T02:42:35.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

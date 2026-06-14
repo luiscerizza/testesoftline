@@ -1,0 +1,238 @@
+﻿:root {
+    --cor-fundo: #f8f9fa; 
+    --cor-branco: #ffffff;
+    --cor-primaria: #d32f2f; 
+    --cor-primaria-hover: #b71c1c; 
+    --cor-texto: #333333; 
+    --cor-borda: #e0e0e0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    background-color: var(--cor-branco);
+    padding: 2.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    max-width: 400px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: var(--cor-primaria);
+    font-weight: 600;
+}
+
+.form-group {
+    margin-bottom: 1.2rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid var(--cor-borda);
+    border-radius: 4px;
+    font-size: 1rem;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+    input:focus {
+        outline: none;
+        border-color: var(--cor-primaria);
+        box-shadow: 0 0 0 3px rgba(211, 47, 47, 0.1);
+    }
+
+.btn {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: var(--cor-primaria);
+    color: var(--cor-branco);
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 1rem;
+}
+
+    .btn:hover {
+        background-color: var(--cor-primaria-hover);
+    }
+
+.error-msg {
+    color: var(--cor-primaria);
+    font-size: 0.85rem;
+    text-align: center;
+    margin-top: 1rem;
+    display: none;
+}
+
+/* TABELAS */
+.table-container {
+    background-color: var(--cor-branco);
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    max-width: 1200px;
+    margin: 2rem auto;
+}
+
+.table-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+    .table-header h2 {
+        margin: 0;
+        text-align: left;
+    }
+
+.btn-novo {
+    padding: 0.6rem 1.5rem;
+    background-color: var(--cor-primaria);
+    color: var(--cor-branco);
+    border: none;
+    border-radius: 4px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+
+    .btn-novo:hover {
+        background-color: var(--cor-primaria-hover);
+    }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+thead {
+    background-color: var(--cor-fundo);
+}
+
+th, td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid var(--cor-borda);
+}
+
+th {
+    font-weight: 600;
+    color: var(--cor-texto);
+    font-size: 0.9rem;
+    text-transform: uppercase;
+}
+
+tbody tr:hover {
+    background-color: #fafafa;
+}
+
+/* BOTAO */
+.btn-acao {
+    padding: 0.4rem 0.8rem;
+    margin: 0 0.2rem;
+    border: none;
+    border-radius: 3px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: opacity 0.3s;
+}
+
+    .btn-acao:hover {
+        opacity: 0.8;
+    }
+
+.btn-editar {
+    background-color: #2196F3;
+    color: white;
+}
+
+.btn-deletar {
+    background-color: #f44336;
+    color: white;
+}
+
+.btn-visualizar {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.tabela-vazia {
+    text-align: center;
+    padding: 3rem;
+    color: #999;
+    font-style: italic;
+}
+
+/* CADASTRO */
+.form-container {
+    background-color: var(--cor-branco);
+    padding: 2.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    max-width: 700px;
+    margin: 2rem auto;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+    .form-grid .form-group.full-width {
+        grid-column: 1 / -1;
+    }
+
+.form-actions {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.btn-secundario {
+    background-color: #6c757d;
+}
+
+    .btn-secundario:hover {
+        background-color: #5a6268;
+    }
+
+.btn-cancelar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

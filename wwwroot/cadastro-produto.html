@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Produto</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div class="form-container">
+        <h2 id="tituloPagina">Novo Produto</h2>
+
+        <form id="formProduto">
+            <div class="form-grid">
+                <div class="form-group full-width">
+                    <label for="descricao">Descrição *</label>
+                    <input type="text" id="descricao" name="descricao" required maxlength="60" placeholder="Ex: Café em Pó 500g">
+                </div>
+
+                <div class="form-group">
+                    <label for="codigoBarras">Código de Barras</label>
+                    <input type="text" id="codigoBarras" name="codigoBarras" maxlength="14" placeholder="Ex: 7891000100103">
+                </div>
+
+                <div class="form-group">
+                    <label for="valorVenda">Valor de Venda *</label>
+                    <input type="text" id="valorVenda" name="valorVenda" required placeholder="0,00" data-mascara="decimal-2">
+                </div>
+
+                <div class="form-group">
+                    <label for="pesoBruto">Peso Bruto (kg)</label>
+                    <input type="text" id="pesoBruto" name="pesoBruto" placeholder="0,000" data-mascara="decimal-3">
+                </div>
+
+                <div class="form-group">
+                    <label for="pesoLiquido">Peso Líquido (kg)</label>
+                    <input type="text" id="pesoLiquido" name="pesoLiquido" placeholder="0,000" data-mascara="decimal-3">
+                </div>
+            </div>
+
+            <div class="form-actions">
+                <button type="submit" class="btn">Salvar</button>
+                <a href="produtos.html" class="btn btn-secundario btn-cancelar">Cancelar</a>
+            </div>
+        </form>
+    </div>
+
+    <script src="js/cadastro-produto.js?=v2"></script>
+</body>
+</html>

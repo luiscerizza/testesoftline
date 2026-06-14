@@ -1,0 +1,14 @@
+wwwroot\js\clientes.js
+wwwroot\cadastro-produto.html
+wwwroot\clientes.html
+wwwroot\css\style.css
+wwwroot\js\cadastro-produto.js
+wwwroot\js\cadastro-cliente.js
+wwwroot\cadastro-cliente.html
+wwwroot\js\primeiro-acesso.js
+wwwroot\js\produtos.js
+wwwroot\login.html
+wwwroot\menu.html
+wwwroot\produtos.html
+wwwroot\js\login.js
+wwwroot\primeiro-acesso.html

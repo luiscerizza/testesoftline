@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Principal</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .menu-container {
+            max-width: 600px; 
+            text-align: center;
+        }
+
+        .menu-btn {
+            display: block;
+            width: 100%;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            background-color: var(--cor-branco);
+            color: var(--cor-primaria);
+            border: 2px solid var(--cor-primaria);
+            border-radius: 8px;
+            font-size: 1.2rem;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+            .menu-btn:hover {
+                background-color: var(--cor-primaria);
+                color: var(--cor-branco);
+            }
+
+        .btn-sair {
+            background-color: #6c757d;
+            color: white;
+            margin-top: 2rem;
+        }
+
+            .btn-sair:hover {
+                background-color: #5a6268;
+            }
+    </style>
+</head>
+<body>
+
+    <div class="container menu-container">
+        <h2>Bem-vindo ao Sistema</h2>
+        <p style="margin-bottom: 2rem; color: #666;">Selecione um módulo para continuar:</p>
+
+        <a href="produtos.html" class="menu-btn">📦 Gerenciar Produtos</a>
+        <a href="clientes.html" class="menu-btn">👥 Gerenciar Clientes</a>
+
+        <a href="login.html" class="btn btn-sair">Sair do Sistema</a>
+    </div>
+
+</body>
+</html>
