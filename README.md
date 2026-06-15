@@ -127,7 +127,7 @@ Swagger (API): https://localhost:7242/swagger
 
 
 
-🔑 Primeiro Acesso
+## 🔑 Primeiro Acesso
 
 Antes de usar o sistema, é necessário criar o usuário administrador:
 
