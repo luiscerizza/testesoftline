@@ -142,6 +142,6 @@ Após a criação, você será redirecionado para a tela de Login.
 Faça login com as credenciais criadas e acesse o menu principal.
 
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Desenvolvido por Luis Gustavo Cerizza como parte do desafio técnico.
